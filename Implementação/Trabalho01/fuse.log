@@ -1,0 +1,42 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Xilinx/projects 14.7/Trabalho01/TrabSchematic_TrabSchematic_sch_tb_isim_beh.exe -prj C:/Xilinx/projects 14.7/Trabalho01/TrabSchematic_TrabSchematic_sch_tb_beh.prj work.TrabSchematic_TrabSchematic_sch_tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 6
+Turning on mult-threading, number of parallel sub-compilation jobs: 12 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Xilinx/projects 14.7/Trabalho01/SevenSchematic.vhf" into library work
+Parsing VHDL file "C:/Xilinx/projects 14.7/Trabalho01/Schematic_MqDeEstado.vhf" into library work
+Parsing VHDL file "C:/Xilinx/projects 14.7/Trabalho01/SchematicAssincCount.vhf" into library work
+Parsing VHDL file "C:/Xilinx/projects 14.7/Trabalho01/TrabSchematic.vhf" into library work
+Parsing VHDL file "C:/Xilinx/projects 14.7/Trabalho01/Trab01_TB.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package vcomponents
+Compiling architecture fd_v of entity FD [\FD('0')\]
+Compiling architecture or2_v of entity OR2 [or2_default]
+Compiling architecture and2b2_v of entity AND2B2 [and2b2_default]
+Compiling architecture and2b1_v of entity AND2B1 [and2b1_default]
+Compiling architecture and3b2_v of entity AND3B2 [and3b2_default]
+Compiling architecture and3b1_v of entity AND3B1 [and3b1_default]
+Compiling architecture or3_v of entity OR3 [or3_default]
+Compiling architecture behavioral of entity Schematic_MqDeEstado_MUSER_TrabSchematic [schematic_mqdeestado_muser_trabs...]
+Compiling architecture and4b2_v of entity AND4B2 [and4b2_default]
+Compiling architecture and4b3_v of entity AND4B3 [and4b3_default]
+Compiling architecture or4_v of entity OR4 [or4_default]
+Compiling architecture and4b1_v of entity AND4B1 [and4b1_default]
+Compiling architecture behavioral of entity SevenSchematic_MUSER_TrabSchematic [sevenschematic_muser_trabschemat...]
+Compiling architecture fdc_v of entity FDC [\FDC('0')\]
+Compiling architecture behavioral of entity FJKC_MXILINX_TrabSchematic [\FJKC_MXILINX_TrabSchematic('0')...]
+Compiling architecture vcc_v of entity VCC [vcc_default]
+Compiling architecture inv_v of entity INV [inv_default]
+Compiling architecture behavioral of entity SchematicAssincCount_MUSER_TrabSchematic [schematicassinccount_muser_trabs...]
+Compiling architecture behavioral of entity TrabSchematic [trabschematic_default]
+Compiling architecture behavioral of entity trabschematic_trabschematic_sch_...
+Time Resolution for simulation is 1ps.
+Waiting for 12 sub-compilation(s) to finish...
+Compiled 43 VHDL Units
+Built simulation executable C:/Xilinx/projects 14.7/Trabalho01/TrabSchematic_TrabSchematic_sch_tb_isim_beh.exe
+Fuse Memory Usage: 51392 KB
+Fuse CPU Usage: 530 ms

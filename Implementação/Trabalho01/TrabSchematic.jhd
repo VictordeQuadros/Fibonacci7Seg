@@ -1,0 +1,9 @@
+MODULE TrabSchematic
+	SUBMODULE Schematic_MqDeEstado
+		INSTANCE XLXI_1
+	SUBMODULE SevenSchematic
+		INSTANCE XLXI_2
+	SUBMODULE SchematicAssincCount
+		INSTANCE XLXI_5
+	SUBMODULE DivisorFrequencia
+		INSTANCE XLXI_6

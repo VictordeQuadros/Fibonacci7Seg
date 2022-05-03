@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Xst" num="2211" delta="new" >&quot;<arg fmt="%s" index="1">C:/Xilinx/projects 14.7/Trabalho01/TrabSchematic.vhf</arg>&quot; line <arg fmt="%d" index="2">98</arg>: Instantiating black box module &lt;<arg fmt="%s" index="3">Schematic_MqDeEstado</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2211" delta="new" >&quot;<arg fmt="%s" index="1">C:/Xilinx/projects 14.7/Trabalho01/TrabSchematic.vhf</arg>&quot; line <arg fmt="%d" index="2">105</arg>: Instantiating black box module &lt;<arg fmt="%s" index="3">SevenSchematic</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Xilinx/projects 14.7/Trabalho01/TrabSchematic.vhf</arg>&quot; line <arg fmt="%d" index="2">125</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">C1</arg>&apos; of component &apos;<arg fmt="%s" index="4">SchematicAssincCount</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Xilinx/projects 14.7/Trabalho01/TrabSchematic.vhf</arg>&quot; line <arg fmt="%d" index="2">125</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">C2</arg>&apos; of component &apos;<arg fmt="%s" index="4">SchematicAssincCount</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Xilinx/projects 14.7/Trabalho01/TrabSchematic.vhf</arg>&quot; line <arg fmt="%d" index="2">125</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">C3</arg>&apos; of component &apos;<arg fmt="%s" index="4">SchematicAssincCount</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">C:/Xilinx/projects 14.7/Trabalho01/TrabSchematic.vhf</arg>&quot; line <arg fmt="%d" index="2">125</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">C0</arg>&apos; of component &apos;<arg fmt="%s" index="4">SchematicAssincCount</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="2211" delta="old" >&quot;<arg fmt="%s" index="1">C:/Xilinx/projects 14.7/Trabalho01/TrabSchematic.vhf</arg>&quot; line <arg fmt="%d" index="2">125</arg>: Instantiating black box module &lt;<arg fmt="%s" index="3">SchematicAssincCount</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1306" delta="new" >Output &lt;<arg fmt="%s" index="1">C3</arg>&gt; is never assigned.
+</msg>
+
+<msg type="warning" file="Xst" num="1306" delta="new" >Output &lt;<arg fmt="%s" index="1">C0</arg>&gt; is never assigned.
+</msg>
+
+<msg type="warning" file="Xst" num="1306" delta="new" >Output &lt;<arg fmt="%s" index="1">C1</arg>&gt; is never assigned.
+</msg>
+
+<msg type="warning" file="Xst" num="1306" delta="new" >Output &lt;<arg fmt="%s" index="1">C2</arg>&gt; is never assigned.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">A</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">SevenSchematic</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">B</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">SevenSchematic</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">C</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">SevenSchematic</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">D</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">SevenSchematic</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">E</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">SevenSchematic</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">F</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">SevenSchematic</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">G</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">SevenSchematic</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">S0</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">Schematic_MqDeEstado</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">S1</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">Schematic_MqDeEstado</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">S2</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">Schematic_MqDeEstado</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2036" delta="old" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">S3</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">Schematic_MqDeEstado</arg>&gt;. Possible simulation mismatch.
+</msg>
+
+</messages>
+

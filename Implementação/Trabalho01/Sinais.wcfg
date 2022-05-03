@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Xilinx/projects 14.7/Trabalho01/TrabSchematic_TrabSchematic_sch_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="numeric_std" />
+            <top_module name="std_logic_1164" />
+            <top_module name="trabschematic_trabschematic_sch_tb" />
+            <top_module name="vcomponents" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="16" />
+   <wvobject fp_name="/trabschematic_trabschematic_sch_tb/s0" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">s0</obj_property>
+      <obj_property name="ObjectShortName">s0</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#000080</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trabschematic_trabschematic_sch_tb/s1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">s1</obj_property>
+      <obj_property name="ObjectShortName">s1</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#000080</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trabschematic_trabschematic_sch_tb/s2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">s2</obj_property>
+      <obj_property name="ObjectShortName">s2</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#000080</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trabschematic_trabschematic_sch_tb/s3" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">s3</obj_property>
+      <obj_property name="ObjectShortName">s3</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#000080</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trabschematic_trabschematic_sch_tb/a" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">a</obj_property>
+      <obj_property name="ObjectShortName">a</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ff0000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trabschematic_trabschematic_sch_tb/b" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">b</obj_property>
+      <obj_property name="ObjectShortName">b</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ff0000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trabschematic_trabschematic_sch_tb/c" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">c</obj_property>
+      <obj_property name="ObjectShortName">c</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ff0000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trabschematic_trabschematic_sch_tb/d" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">d</obj_property>
+      <obj_property name="ObjectShortName">d</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ff0000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trabschematic_trabschematic_sch_tb/e" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">e</obj_property>
+      <obj_property name="ObjectShortName">e</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ff0000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trabschematic_trabschematic_sch_tb/f" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">f</obj_property>
+      <obj_property name="ObjectShortName">f</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ff0000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trabschematic_trabschematic_sch_tb/g" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">g</obj_property>
+      <obj_property name="ObjectShortName">g</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ff0000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trabschematic_trabschematic_sch_tb/c0" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">c0</obj_property>
+      <obj_property name="ObjectShortName">c0</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#800080</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trabschematic_trabschematic_sch_tb/c1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">c1</obj_property>
+      <obj_property name="ObjectShortName">c1</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#800080</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trabschematic_trabschematic_sch_tb/c2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">c2</obj_property>
+      <obj_property name="ObjectShortName">c2</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#800080</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trabschematic_trabschematic_sch_tb/c3" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">c3</obj_property>
+      <obj_property name="ObjectShortName">c3</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#800080</obj_property>
+   </wvobject>
+   <wvobject fp_name="/trabschematic_trabschematic_sch_tb/clock" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+</wave_config>

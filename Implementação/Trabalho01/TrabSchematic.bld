@@ -1,0 +1,51 @@
+Release 14.7 ngdbuild P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+Command Line: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\ngdbuild.exe
+-intstyle ise -dd _ngo -nt timestamp -i -p xc3s1000-ft256-5 TrabSchematic.ngc
+TrabSchematic.ngd
+
+Reading NGO file "C:/Xilinx/projects 14.7/Trabalho01/TrabSchematic.ngc" ...
+Gathering constraint information from source properties...
+Done.
+
+Resolving constraint associations...
+Checking Constraint Associations...
+Done...
+
+Checking expanded design ...
+ERROR:NgdBuild:604 - logical block 'XLXI_1' with type 'Schematic_MqDeEstado'
+   could not be resolved. A pin name misspelling can cause this, a missing edif
+   or ngc file, case mismatch between the block name and the edif or ngc file
+   name, or the misspelling of a type name. Symbol 'Schematic_MqDeEstado' is not
+   supported in target 'spartan3'.
+ERROR:NgdBuild:604 - logical block 'XLXI_2' with type 'SevenSchematic' could not
+   be resolved. A pin name misspelling can cause this, a missing edif or ngc
+   file, case mismatch between the block name and the edif or ngc file name, or
+   the misspelling of a type name. Symbol 'SevenSchematic' is not supported in
+   target 'spartan3'.
+ERROR:NgdBuild:604 - logical block 'XLXI_5' with type 'SchematicAssincCount'
+   could not be resolved. A pin name misspelling can cause this, a missing edif
+   or ngc file, case mismatch between the block name and the edif or ngc file
+   name, or the misspelling of a type name. Symbol 'SchematicAssincCount' is not
+   supported in target 'spartan3'.
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+NGDBUILD Design Results Summary:
+  Number of errors:     3
+  Number of warnings:   0
+
+Total memory usage is 4397204 kilobytes
+
+Total REAL time to NGDBUILD completion:  2 sec
+Total CPU time to NGDBUILD completion:   2 sec
+
+One or more errors were found during NGDBUILD.  No NGD file will be written.
+
+Writing NGDBUILD log file "TrabSchematic.bld"...

@@ -1,0 +1,29 @@
+Command line:
+   TrabSchematic_TrabSchematic_sch_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  64942
+
+Mon May 02 14:39:12 2022
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5150.2 Meg
+
+ Total Signals          : 384
+ Total Nets             : 109
+ Total Signal Drivers   : 80
+ Total Blocks           : 73
+ Total Primitive Blocks : 64
+ Total Processes        : 80
+ Total Traceable Variables  : 24
+ Total Scalar Nets and Variables : 603
+Total Line Count : 94
+
+ Total Simulation Time: 1.5 sec
+
+ Current Memory Usage: 4835.63 Meg
+
+Mon May 02 14:44:57 2022
+

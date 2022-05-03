@@ -1,0 +1,5 @@
+vhdl work "SevenSchematic.vhf"
+vhdl work "Schematic_MqDeEstado.vhf"
+vhdl work "SchematicAssincCount.vhf"
+vhdl work "TrabSchematic.vhf"
+vhdl work "Trab01_TB.vhd"

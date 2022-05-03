@@ -1,0 +1,10 @@
+V3 9
+FL "C:/Xilinx/projects 14.7/Trabalho01/TrabSchematic.vhf" 2022/05/02.14:19:56 P.20131013
+EN work/TrabSchematic 1651511998 \
+      FL "C:/Xilinx/projects 14.7/Trabalho01/TrabSchematic.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/TrabSchematic/BEHAVIORAL 1651511999 \
+      FL "C:/Xilinx/projects 14.7/Trabalho01/TrabSchematic.vhf" \
+      EN work/TrabSchematic 1651511998 CP Schematic_MqDeEstado CP SevenSchematic \
+      CP AND4B1 CP SchematicAssincCount

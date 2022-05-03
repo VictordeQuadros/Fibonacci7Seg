@@ -1,0 +1,5 @@
+vhdl isim_temp "SevenSchematic.vhf"
+vhdl isim_temp "Schematic_MqDeEstado.vhf"
+vhdl isim_temp "SchematicAssincCount.vhf"
+vhdl isim_temp "TrabSchematic.vhf"
+vhdl isim_temp "Trab01_TB.vhd"

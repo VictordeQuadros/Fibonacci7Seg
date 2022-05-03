@@ -1,0 +1,19 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "A" LOC = E14;
+NET "B" LOC = G13;
+NET "C" LOC = N15;
+NET "D" LOC = P15;
+NET "E" LOC = R16;
+NET "F" LOC = F13;
+NET "G" LOC = N16;
+NET "S0" LOC = K12;
+NET "S1" LOC = P14;
+NET "S2" LOC = L12;
+NET "S3" LOC = N14;
+NET "C0" LOC = P13;
+NET "C1" LOC = N12;
+NET "C2" LOC = P12;
+NET "Clock" LOC = T9;
+NET "C3" LOC = P11;

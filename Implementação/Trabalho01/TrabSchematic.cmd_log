@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "C:/Xilinx/projects 14.7/Trabalho01/TrabSchematic.xst" -ofn "C:/Xilinx/projects 14.7/Trabalho01/TrabSchematic.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1000-ft256-5 "TrabSchematic.ngc" TrabSchematic.ngd  
+xst -intstyle ise -ifn "C:/Xilinx/projects 14.7/Trabalho01/TrabSchematic.xst" -ofn "C:/Xilinx/projects 14.7/Trabalho01/TrabSchematic.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1000-ft256-5 "TrabSchematic.ngc" TrabSchematic.ngd  

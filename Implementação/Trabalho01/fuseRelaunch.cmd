@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Xilinx/projects 14.7/Trabalho01/TrabSchematic_TrabSchematic_sch_tb_isim_beh.exe" -prj "C:/Xilinx/projects 14.7/Trabalho01/TrabSchematic_TrabSchematic_sch_tb_beh.prj" "work.TrabSchematic_TrabSchematic_sch_tb" 
